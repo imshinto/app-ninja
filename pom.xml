@@ -6,7 +6,7 @@
         <groupId>net.wasdev.maven.parent</groupId>
         <artifactId>java7-parent</artifactId>
         <version>1.4</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>net.wasdev.wlp.sample</groupId>
@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>com.cloudant</groupId>
 			<artifactId>cloudant-client</artifactId>
-			<version>2.7.0</version>
+			<version>2.19.1</version>
 		</dependency>
 		
 		<dependency>
